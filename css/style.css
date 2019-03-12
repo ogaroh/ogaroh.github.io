@@ -1758,13 +1758,13 @@ h3.subheading-agileits-w3layouts {
 	}
 }
 
-@media(max-width:568px) {
+@media (min-width: 568px) and (max-width:568px) {
 	.copyright-wthree p {
 		line-height: 28px;
 	}
 	.banner {
 		min-height: 375px;
-		background: url(../images/banner1.jpg)no-repeat -83px 0px;
+		background: url(../images/darkblue.jpg)no-repeat -83px 0px;
 		background-size: cover;
 	}
 }
@@ -1834,7 +1834,7 @@ h3.subheading-agileits-w3layouts {
 	}
 	.banner {
 		min-height: 343px;
-		background: url(../images/banner1.jpg)no-repeat -93px 0px;
+		background: url(../images/darkblue.jpg)no-repeat -93px 0px;
 		background-size: cover;
 	}
 	.banner-text-w3-agileits {
