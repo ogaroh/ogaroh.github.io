@@ -366,7 +366,7 @@ nav.shift ul li a:hover:after {
 /*-- //header --*/
 
 .banner {
-	background: url(../images/banner.jpg)no-repeat 0px 0px;
+	background: url(../images/banner1.jpg)no-repeat 0px 0px;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1769,7 +1769,7 @@ h3.subheading-agileits-w3layouts {
 	}
 	.banner {
 		min-height: 375px;
-		background: url(../images/banner.jpg)no-repeat -83px 0px;
+		background: url(../images/banner1.jpg)no-repeat -83px 0px;
 		background-size: cover;
 	}
 }
@@ -1839,7 +1839,7 @@ h3.subheading-agileits-w3layouts {
 	}
 	.banner {
 		min-height: 343px;
-		background: url(../images/banner.jpg)no-repeat -93px 0px;
+		background: url(../images/banner1.jpg)no-repeat -93px 0px;
 		background-size: cover;
 	}
 	.banner-text-w3-agileits {
