@@ -1225,9 +1225,9 @@ h3.subheading-agileits-w3layouts {
 	text-align: center;
 }
 
-.w3l-social ul li a.fa.fa-facebook,
-.w3l-social ul li a.fa.fa-twitter,
-.w3l-social ul li a.fa.fa-google-plus {
+.w3l-social ul li a.fa.fa-github,
+.w3l-social ul li a.fa.fa-twitter-square,
+.w3l-social ul li a.fa.fa-instagram {
 	width: 35px;
 	color: #ffffff;
 	border-radius: 50%;
@@ -1242,15 +1242,15 @@ h3.subheading-agileits-w3layouts {
 	-ms-transition: 0.5s all;
 }
 
-.w3l-social ul li a.fa.fa-facebook:hover {
+.w3l-social ul li a.fa.fa-github:hover {
 	color: #3b5998;
 }
 
-.w3l-social ul li a.fa.fa-twitter:hover {
+.w3l-social ul li a.fa.fa-twitter-square:hover {
 	color: #1da1f2;
 }
 
-.w3l-social ul li a.fa.fa-google-plus:hover {
+.w3l-social ul li a.fa.fa-instagram:hover {
 	color: #dd4b39;
 }
 
