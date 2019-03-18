@@ -5,7 +5,6 @@
 
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <title>Erick Ogaro</title>
     <!-- Meta Tags -->
@@ -38,7 +37,6 @@
     <link href="favicon.ico" rel="icon" type="image/x-icon">
     <!-- //title icon-->
 </head>
-
 <body>
 <!-- banner -->
 <div class="banner" id="home">
@@ -524,23 +522,23 @@
         <div class="container">
             <div class="col-md-6 contact-form agile_inner_grids">
                 <h5 class="title-w3">Get In Touch</h5>
-                <form action="#" method="post">
+                <form action="#" method="post" name="email-form" onsubmit="sendMail()">
                     <div class="fields-grid">
                         <div class="styled-input">
-                            <input name="Full Name" placeholder="Name" required="" type="text">
+                            <input name="fullname" placeholder="Name" required="" type="text">
                         </div>
                         <div class="styled-input">
-                            <input name="Email" placeholder="Email" required="" type="email">
+                            <input name="emailaddress" placeholder="Email" required="" type="email">
                         </div>
                         <div class="styled-input">
-                            <input name="Subject" placeholder="Subject" required="" type="text">
+                            <input name="subject" placeholder="Subject" required="" type="text">
                         </div>
                         <div class="clearfix"></div>
                     </div>
                     <div class="styled-input textarea-grid">
-                        <textarea name="Message" placeholder="Message" required=""></textarea>
+                        <textarea name="message" placeholder="Enter Your Message Here" required=""></textarea>
                     </div>
-                    <input type="submit" value="Send">
+                    <input type="submit" value="SEND">
                 </form>
             </div>
             <div class="col-md-6 map-w3-agileits">
@@ -614,5 +612,9 @@
 <!--js for bootstrap working-->
 <script src="js/bootstrap.js"></script>
 <!-- //for bootstrap working -->
+
+<!--send email from the form-->
+<script src="js/send-email.js"></script>
+
 </body>
 </html>
