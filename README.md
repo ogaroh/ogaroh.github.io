@@ -1,1 +1,1 @@
-:sunglasses: :boom: Erick Ogaro Personal Website
+:sunglasses: :boom: Erick Ogaro's Personal Website
