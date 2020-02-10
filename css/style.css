@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-size: 100%;
     font-family: 'Maven Pro', sans-serif;
-    background: #fff;
+    background: #ffffff;
 }
 
 body a {
@@ -69,6 +69,11 @@ label {
     line-height: 5px;
     position: relative;
     z-index: 999;
+}
+
+.w3-logo img {
+    height: 100px;
+    width: 110px;
 }
 
 .navbar {
@@ -142,6 +147,7 @@ header {
 .banner-text-w3-agileits {
     margin-top: 15.5em;
     float: right;
+    background-color: #0000008f;
 }
 
 .banner-text-w3-agileits h5 {
@@ -175,7 +181,7 @@ header {
 }
 
 .banner-text-w3-agileits p {
-    color: #4dc3ff;
+    color: #ffffff;
     font-size: 1em;
     letter-spacing: 7px;
     font-weight: 400;
@@ -1251,7 +1257,7 @@ h3.subheading-agileits-w3layouts {
 }
 
 .w3l-social ul li a.fa.fa-github:hover {
-    color: #3b5998;
+    color: #8c8c92;
 }
 
 .w3l-social ul li a.fa.fa-twitter-square:hover {
