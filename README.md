@@ -1,1 +1,1 @@
-# Erick Ogaro's Portfolio Website 👨🏾‍💻💥
+# Erick Ogaro's Personal Website 👨🏾‍💻💥
