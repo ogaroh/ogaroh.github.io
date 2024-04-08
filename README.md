@@ -1,1 +1,1 @@
-# Erick Ogaro's Personal Website 👨🏾‍💻💥
+# Erick Ogaro's Personal Website 👨🏾‍💻💥 v1
